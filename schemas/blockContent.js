@@ -65,6 +65,10 @@ export default {
       options: {hotspot: true},
     },
 
+    {
+      type: 'code'
+    },
+
     //  the vimeo embed type
     {
       type: 'vimeo'
