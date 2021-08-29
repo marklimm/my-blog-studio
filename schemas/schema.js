@@ -9,8 +9,9 @@ import author from './author'
 import blockContent from './blockContent'
 import category from './category'
 import post from './post'
+import screencast from './screencast'
+import tag from './tag'
 import vimeo from './vimeo'
-
 
 // Then we give our schema to the builder and provide the result to Sanity
 export default createSchema({
@@ -30,6 +31,8 @@ export default createSchema({
     author,
     category,
     post,
+    screencast,
+    tag,
     
   ]),
 })
