@@ -22,6 +22,11 @@ export default {
       type: 'url',
     },
     {
+      name: 'githubUrl',
+      title: 'Github URL',
+      type: 'url',
+    },
+    {
       name: 'blurb',
       title: 'Blurb',
       type: 'blockContent',
