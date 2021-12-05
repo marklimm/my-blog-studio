@@ -18,7 +18,7 @@ const VimeoPreview = (props) => {
   )
 }
 
-// This vimeo embed allows for vimeo videos to be placed wtihin the `blockContent` type
+// This vimeo embed allows for vimeo videos to be placed within the `blockContent` type
  export default {
   title: 'Vimeo embed',
   name: 'vimeo',

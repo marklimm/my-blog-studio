@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Mark Limm <mark.limm@gmail.com>",
+  "author": "Mark Limm <mark.limm@proinbox.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
